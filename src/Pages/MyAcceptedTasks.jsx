@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MyAccepedTasks = () => {
+const MyAcceptedTasks = () => {
     return (
         <div>
             my Accepted tasks page
@@ -8,4 +8,4 @@ const MyAccepedTasks = () => {
     );
 };
 
-export default MyAccepedTasks;
+export default MyAcceptedTasks;
