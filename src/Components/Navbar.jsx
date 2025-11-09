@@ -10,7 +10,7 @@ const Navbar = () => {
    
     </>
     return (
-        <div className='shadow-sm bg-base-200'>
+        <div className='shadow-sm bg-base-100 absolute top-0 z-10 w-full'>
          <div className="navbar  w-11/12 mx-auto  px-0">
   <div className="navbar-start">
  
